@@ -1,4 +1,4 @@
-# Лучшие практики для проекта на Next.js с TypeScript и Redux
+# Best practices для проекта на Next.js с TypeScript и Redux
 
 ## Структура проекта
 
